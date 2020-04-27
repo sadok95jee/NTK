@@ -1,0 +1,2 @@
+# NTK
+Neural tangent kernels 
